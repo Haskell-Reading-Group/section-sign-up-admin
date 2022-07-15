@@ -30,14 +30,14 @@ Rather than follow the book we will have one person for each OS (Linux, Mac, Win
 | Topic | Presenter |
 | - | - |
 | Haskell Install Linux | Carl |
-| Haskell Install Mac | open |
+| Haskell Install Mac | Bimal |
 | Haskell Install Windows | open |
 
 
 | Section | Presenter |
 | - | - |
 | 1.2 The Glasgow Haskell Compiler | open |
-| 1.3 Interacting with Haskell—GHCi | open |
+| 1.3 Interacting with Haskell—GHCi | Bimal |
 | 1.4  Writing and working with Haskell code | open |
 
 
